@@ -8,7 +8,7 @@ Desenvolvimento de uma API de para fins de cadastro e login de usuários e envio
 - Typescript
 - Node.js
 - Express
-- MongoDB (mongoose)
+- MongoDB
 - Mailtrap
 - nodemailer
 - JsonWebToken (JWT)
